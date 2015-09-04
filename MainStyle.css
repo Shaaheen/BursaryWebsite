@@ -1,0 +1,37 @@
+body{
+    background-image: url("images/hands.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: repeat-x;
+    height: auto;
+    width: auto;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+div2{
+    position: relative;
+    top: 5px;
+    left: 23vw;
+}
+p1{
+    padding: 15px;
+    margin: 0px;
+    width: 100%;
+    font-size: 2.5vw;
+    font-family: Monthoer;
+}
+h1{
+    font-size: 4vw;
+    position: relative;
+    left: 28vw;
+    color: azure;
+}
+a{
+    text-shadow: black;
+    color: gainsboro;
+    text-decoration: none;
+
+}
+a:hover{
+    color: floralwhite;
+}

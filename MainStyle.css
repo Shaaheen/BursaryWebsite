@@ -7,7 +7,7 @@
 }
 
 body{
-    background-image: url("images/hands.jpg");
+    background-image: url("images/hands2.jpg");
     background-attachment: fixed;
     background-size: cover;
     background-repeat: repeat-x;
@@ -109,7 +109,7 @@ a:hover{
 }
 
 .cl-effect a::before {
-	top: 0;
+	top: 0.7;
 	-webkit-transform: translateY(-10px);
 	-moz-transform: translateY(-10px);
 	transform: translateY(-10px);

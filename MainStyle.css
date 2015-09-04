@@ -47,6 +47,13 @@ p3{
     color: white;
     opacity: 1;
 }
+
+p4{
+    position: fixed;
+    right: 2vw;
+    color: white;
+    bottom: 1vw;
+}
 h2{
     color: white;
     text-align: center;

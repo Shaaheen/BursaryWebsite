@@ -66,8 +66,9 @@ div1{
 h1{
     font-size: 4vw;
     position: relative;
-    left: 23vw;
+    left: -6vw;
     color: azure;
+    text-align: center;
 }
 a{
     text-shadow: black;
